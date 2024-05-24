@@ -10,12 +10,12 @@ setup(
         ]
     },
     install_requires=[],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Yuna Suzuki",
+    author_email="s2222077@stu.musashino-u.ac.jp",
     description="A simple command line tool to generate random topics.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/random-topic-generator",
+    url="https://github.com/yuna-musashino/random-topic-generator",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

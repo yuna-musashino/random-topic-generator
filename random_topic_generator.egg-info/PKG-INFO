@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: random-topic-generator
+Version: 0.1
+Summary: A simple command line tool to generate random topics.
+Home-page: https://github.com/yourusername/random-topic-generator
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Random Topic Generator
+
+A simple command line tool to generate random topics.
+
+## Installation
+
+```bash
+pip install random-topic-generator
