@@ -1,3 +1,4 @@
+LICENCE
 README.md
 setup.py
 random_topic_generator.egg-info/PKG-INFO

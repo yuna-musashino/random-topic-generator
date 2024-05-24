@@ -2,14 +2,15 @@ Metadata-Version: 2.1
 Name: random-topic-generator
 Version: 0.1
 Summary: A simple command line tool to generate random topics.
-Home-page: https://github.com/yourusername/random-topic-generator
-Author: Your Name
-Author-email: your.email@example.com
+Home-page: https://github.com/yuna-musashino/random-topic-generator
+Author: Yuna Suzuki
+Author-email: s2222077@stu.musashino-u.ac.jp
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
+License-File: LICENCE
 
 # Random Topic Generator
 
