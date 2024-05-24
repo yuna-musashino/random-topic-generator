@@ -1,8 +1,0 @@
-LICENCE
-README.md
-setup.py
-random_topic_generator.egg-info/PKG-INFO
-random_topic_generator.egg-info/SOURCES.txt
-random_topic_generator.egg-info/dependency_links.txt
-random_topic_generator.egg-info/entry_points.txt
-random_topic_generator.egg-info/top_level.txt

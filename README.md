@@ -7,4 +7,3 @@ A simple command line tool to generate random topics.
 ```bash
 pip install random-topic-generator
 # random-topic-generator
-# random-topic-generator

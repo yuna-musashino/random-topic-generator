@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: random-topic-generator
+Name: new-random-topic-generator
 Version: 0.2
 Summary: A simple command line tool to generate random topics.
 Home-page: https://github.com/yuna-musashino/random-topic-generator
@@ -20,3 +20,4 @@ A simple command line tool to generate random topics.
 
 ```bash
 pip install random-topic-generator
+# random-topic-generator
